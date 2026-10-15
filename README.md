@@ -56,10 +56,11 @@ python -m unittest discover -s tests -v
 ## The full kit
 
 This is one piece of the **Agent Ops Guardrails Kit**, which adds a kill switch, daily caps and cool-downs, an identity check, a heartbeat for jobs that stop quietly, a spend meter, a reproducible release builder, templates and a verified checklist:
-https://neuralalpha.gumroad.com/l/agent-ops-guardrails-kit
+https://neuralalpha.gumroad.com/l/agent-ops-guardrails-kit?utm_source=github&utm_medium=readme
 
-Free one-page checklist: https://neuralalpha.gumroad.com/l/agent-ops-preflight
-Weekly notes on running agents in production: https://neuralalphaai.substack.com
+Free one-page checklist: https://neuralalpha.gumroad.com/l/agent-ops-preflight?utm_source=github&utm_medium=readme
+日本語版チェックリスト（無料）: https://neuralalpha.gumroad.com/l/agent-ops-preflight-ja?utm_source=github&utm_medium=readme
+Weekly notes on running agents in production: https://neuralalphaai.substack.com/?utm_source=github&utm_medium=readme
 
 ## License
 
